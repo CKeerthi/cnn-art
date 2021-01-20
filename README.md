@@ -1,7 +1,7 @@
 # cnn-tensorflow-art
 
 ## Motivation
-The interest to understand CNN at a deep level is the main reason why I went about pursuing this idea. There are many research papers on this idea, I came across one that stuck to the basics and explained it throughly: [https://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html]
+The interest to understand CNN at a deep level is the main reason why I went about pursuing this idea. There are many research papers on this idea, I came across one that stuck to the basics and explained it throughly: https://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html
 
 ## Tools
 I used tensorflow and Keras VGG-19 deep neural network to acomplish this. Primarily being that the Keras API available for tensorflow 2.0 make it really easy to implement funtions. 
