@@ -1,4 +1,4 @@
-# cnn-tensorflow-art
+# Creating new 'artistic' images using painting and photos
 
 ## Motivation
 There are many research papers on this idea, I came across one that stuck to the basics and explained it throughly: https://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html
